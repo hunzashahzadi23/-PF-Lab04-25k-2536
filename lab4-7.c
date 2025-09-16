@@ -16,6 +16,6 @@ int main(){
 	}else if(units>500){
 		bill=(100*10)+(200*15)+(200*20)+(units-500)*25;
 		printf("Your bill is:%dPkr",bill);
-	}
-	return 0; 
+	} return 0; 
 }
+
