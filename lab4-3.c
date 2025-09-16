@@ -12,5 +12,6 @@ int main(){
 		printf("You will recieve Small Relief Package");
 	}else{
 		printf("No Relief Required");
-	}
+	} return 0;
 }
+
