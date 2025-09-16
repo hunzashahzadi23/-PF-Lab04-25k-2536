@@ -12,4 +12,6 @@ int main(){
 		if(num==0){
 		printf("%d is zero",num);
 	}
+	return 0;
 }
+
