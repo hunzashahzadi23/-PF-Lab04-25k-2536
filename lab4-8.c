@@ -48,6 +48,6 @@ int main(){
 			break;
 		default:
 			printf("Invalid operator");
-	}
-	return 0;
+	} return 0;
 }
+
