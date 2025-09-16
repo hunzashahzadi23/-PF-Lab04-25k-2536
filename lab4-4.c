@@ -8,4 +8,6 @@ int main(){
 	}else {
 		printf("Integer is odd");
 	}
+	return 0;
 }
+
