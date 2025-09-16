@@ -11,7 +11,8 @@ int main(){
 	scanf("%d",&prayer);
 	if(prayer!=1 && prayer!=0){
 		printf("enter valid number: ");
-		scanf("%d",&prayer);
+		scanf("%d",&prayer);  
+		
 	}
 	printf("How often do you Fast? (0 = Never, 1 = Sometimes, 2 = Always) :");
 	scanf("%d",&fasting);
@@ -44,3 +45,4 @@ int main(){
 	
 
 	
+
