@@ -14,9 +14,11 @@ int main(){
 	}else if(Rainfall>=100 && RiverFlow>=500){
 		printf("High Risk");
 	}else if(Rainfall>=150 && RiverFlow>=800){
-		printf("Severe Risk – Evacuate!");
+		printf("Severe Risk â€“ Evacuate!");
 	}else{
 		printf("Error");
-	}
+	} 
+	
 	return 0;
 }
+
